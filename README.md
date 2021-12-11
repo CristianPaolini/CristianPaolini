@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I am a <b>Software Developer</b> who is always trying to <b>improve</b> everyday. 
+    I am a <b>Software Developer</b> who is always trying to <b>improve</b> every day. 
     That is why I always try to learn and apply the <b>best practices</b> and write code as <b>clean</b> as possible. 
     I'm certain that this mindset helps me <b>grow</b> as a professional. <img src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/Medal.gif" width="20px">
   </em>  
