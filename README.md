@@ -39,8 +39,83 @@
 
 ## My Skills and Tools
 
-| <img src="https://cdn.iconscout.com/icon/free/png-64/html5-2038876-1720089.png" alt="html5-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png" alt="css3-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png" alt="js-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" alt="java-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/csharp-1-1175241.png" alt="csharp-icon" height="36" width="36"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" alt="dotnet-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png" alt="git-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3521796-2945213.png" alt="vscode-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/sql-4-190807.png" alt="ssms-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/bootstrap-226077.png" alt="bootstrap-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" alt="vs-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/jquery-1-226009.png" alt="jquery-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/php-2752101-2284918.png" alt="php-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/mysql-3521596-2945040.png" alt="mysql-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/eclipse-14-282371.png" alt="eclipse-icon" height="36" width="36"> | <img src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" alt="cpp-icon" height="36" width="36"> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/html5-2038876-1720089.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖#</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/csharp-1-1175241.png">
+      </td>
+      <td width="25%" align="center">
+        <span>.𝗡𝗘𝗧</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/net-51-190792.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3521796-2945213.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗦𝗦𝗠𝗦</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/sql-4-190807.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/bootstrap-226077.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗤𝘂𝗲𝗿𝘆</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/jquery-1-226009.png">
+      </td>
+    </tr>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗣𝗛𝗣</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/php-2752101-2284918.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗠𝘆𝗦𝗤𝗟</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/mysql-3521596-2945040.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗘𝗰𝗹𝗶𝗽𝘀𝗲 𝗜𝗗𝗘</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/eclipse-14-282371.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖++</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CristianPaolini)
