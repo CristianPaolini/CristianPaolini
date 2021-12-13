@@ -28,8 +28,6 @@
 <p align="center"><a href="https://github.com/CristianPaolini"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpaolini&langs_count=8&layout=compact&theme=react" alt="Cristian Paolini's most used languages" /></a>
 <p>
 
-<br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-black?logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-black?logo=css3" />
