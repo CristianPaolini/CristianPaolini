@@ -52,7 +52,7 @@
 <p align="center">
 <a href="https://in.linkedin.com/in/cristian-paolini-44b672217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?logo=linkedin" alt="LinkedIn acc"></a>
 <a href="https://github.com/CristianPaolini" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github" alt="GitHub acc"></a>
-<a href="https://es.stackoverflow.com/users/261585/cristian-paolini" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-black?logo=stackoverflow" alt="Stack Overflow acc"></a>
+<a href="https://stackoverflow.com/users/14266623/cristian-paolini" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-black?logo=stackoverflow" alt="Stack Overflow acc"></a>
 <a href="mailto:cristianpaolini3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-black?logo=gmail" alt="Gmail acc"></a>
 </p>
 
