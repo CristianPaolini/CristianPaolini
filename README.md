@@ -20,102 +20,44 @@
 
 <br>
 
-<a href="https://github.com/CristianPaolini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianpaolini&count_private=true&show_icons=true&theme=react&line_height=27" alt="Cristian Paolini's GitHub stats" />
-</a>
+<p align="center"><a href="https://github.com/CristianPaolini"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianpaolini&count_private=true&show_icons=true&theme=react&line_height=27" alt="Cristian Paolini's GitHub stats" /></a>
+<p>
 
-<a href="https://github.com/CristianPaolini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpaolini&langs_count=8&layout=compact&theme=react" alt="Cristian Paolini's most used languages" />
-</a>
+<p align="center"><a href="https://github.com/CristianPaolini"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpaolini&langs_count=8&layout=compact&theme=react" alt="Cristian Paolini's most used languages" /></a>
+<p>
 
 <br>
 
-# Connect with me<img src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/Handshake.gif" height="32px">
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-black?logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-black?logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript" />
+  <img src="https://img.shields.io/badge/-.NET-black?logo=dotnet" />
+  <img src="https://img.shields.io/badge/-C%23-black?logo=csharp" /> <br>
+  <img src="https://img.shields.io/badge/-Java-black?logo=java" />
+  <img src="https://img.shields.io/badge/-Git-black?logo=git" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-black?logo=microsoftsqlserver" />
+  <img src="https://img.shields.io/badge/-VS%20Code-black?logo=visualstudiocode" /> 
+  <img src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap" /> <br>
+  <img src="https://img.shields.io/badge/-Visual%20Studio-black?logo=visualstudio" />
+  <img src="https://img.shields.io/badge/-jQuery-black?logo=jquery" />
+  <img src="https://img.shields.io/badge/-PHP-black?logo=php" />
+  <img src="https://img.shields.io/badge/-MySQL-black?logo=mysql" /> <br>
+  <img src="https://img.shields.io/badge/-Eclipse%20IDE-black?logo=eclipse" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-black?logo=cplusplus" />
+</p>
 
-| [<img src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/cristian-paolini-44b672217) |  [<img src="https://cdn.iconscout.com/icon/free/png-64/github-1521500-1288242.png" alt="Github logo" width="34">](https://github.com/CristianPaolini) | [<img src="https://cdn.iconscout.com/icon/free/png-64/stackoverflow-286085.png" alt="Stackoverflow Logo" width="28">](https://es.stackoverflow.com/users/261585/cristian-paolini) | [<img src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:cristianpaolini3@gmail.com)
-|:---:|:---:|:---:|:---:|
+
+# 📫 Contact Me
+<p align="center">
+<a href="https://in.linkedin.com/in/cristian-paolini-44b672217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?logo=linkedin" alt="LinkedIn acc"></a>
+<a href="https://github.com/CristianPaolini" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github" alt="GitHub acc"></a>
+<a href="https://es.stackoverflow.com/users/261585/cristian-paolini" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-black?logo=stackoverflow" alt="Stack Overflow acc"></a>
+<a href="mailto:cristianpaolini3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-black?logo=gmail" alt="Gmail acc"></a>
+</p>
+
 
 <br>
-
-## My Skills and Tools
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/html5-2038876-1720089.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/csharp-1-1175241.png">
-      </td>
-      <td width="25%" align="center">
-        <span>.𝗡𝗘𝗧</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/net-51-190792.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3521796-2945213.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗦𝗦𝗠𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/sql-4-190807.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/bootstrap-226077.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗤𝘂𝗲𝗿𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/jquery-1-226009.png">
-      </td>
-    </tr>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗣𝗛𝗣</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/php-2752101-2284918.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗠𝘆𝗦𝗤𝗟</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/mysql-3521596-2945040.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗘𝗰𝗹𝗶𝗽𝘀𝗲 𝗜𝗗𝗘</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/eclipse-14-282371.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CristianPaolini)
