@@ -20,7 +20,7 @@
 
 <br>
 
-**Below, you can take a look on my Skills, Tools and GitHub Stats** &nbsp; <img src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/Point_Down.gif" width="15px" />
+**Below, you can take a look at my GitHub Stats, Skills and Tools** &nbsp; <img src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/Point_Down.gif" width="15px" />
 
 <p align="center"><a href="https://github.com/CristianPaolini"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianpaolini&count_private=true&show_icons=true&theme=react&line_height=27" alt="Cristian Paolini's GitHub stats" /></a>
 <p>
