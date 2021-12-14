@@ -18,17 +18,9 @@
 - <img alt="GIF" src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/gandalf_parrot.gif" width="20vw" alt="Gandalf GIF" /> I’m *looking forward to collaborate* on **open source projects**.
 - **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 
-<br>
+### 🛠 &nbsp;Tech Stack
 
-# GitHub Stats, Skills and Tools &nbsp; <img src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/Point_Down.gif" width="25px" alt="Point down GIF" />
-
-<p align="center"><a href="https://github.com/CristianPaolini"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianpaolini&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Cristian Paolini's GitHub stats" /></a>
-<p>
-
-<p align="center"><a href="https://github.com/CristianPaolini"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpaolini&langs_count=8&layout=compact&theme=dark" alt="Cristian Paolini's most used languages" /></a>
-<p>
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-HTML5-black?logo=html5" alt="HTML5 Logo" />
   <img src="https://img.shields.io/badge/-CSS3-black?logo=css3" alt="CSS3 Logo" />
   <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript" alt="JS Logo" />
@@ -47,8 +39,14 @@
   <img src="https://img.shields.io/badge/-C%2B%2B-black?logo=cplusplus" alt="Cplusplus Logo" />
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
 
-# 📫 Contact Me
+<p align="center"><a href="https://github.com/CristianPaolini">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianpaolini&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Cristian Paolini's GitHub stats" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpaolini&langs_count=8&layout=compact&theme=dark" alt="Cristian Paolini's most used languages" /></a>
+<p>
+
+### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://in.linkedin.com/in/cristian-paolini-44b672217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?logo=linkedin" alt="LinkedIn Logo"></a>
 <a href="https://github.com/CristianPaolini" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github" alt="GitHub Logo"></a>
