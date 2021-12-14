@@ -47,7 +47,7 @@
 <p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<p align="center">
+<p align="left">
 <a href="https://in.linkedin.com/in/cristian-paolini-44b672217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?logo=linkedin" alt="LinkedIn Logo"></a>
 <a href="https://github.com/CristianPaolini" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github" alt="GitHub Logo"></a>
 <a href="https://stackoverflow.com/users/14266623/cristian-paolini" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-black?logo=stackoverflow" alt="Stack Overflow Logo"></a>
