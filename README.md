@@ -12,7 +12,7 @@
   </em>  
 </p>
 
-<br>
+### 👨🏻‍💻 &nbsp;About Me
 
 - I’m usually *coding* on my laptop 👨‍💻
 - <img alt="GIF" src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/gandalf_parrot.gif" width="20vw" alt="Gandalf GIF" /> I’m *looking forward to collaborate* on **open source projects**.
