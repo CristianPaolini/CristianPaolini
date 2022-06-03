@@ -1,21 +1,17 @@
-# Cristian Paolini&nbsp;<img src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/Developer.gif?raw=true" width="30px">
-
-<img align="right" alt="PC GIF" src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/PC.gif" width="190" />
-
-### <img src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/Hi.gif" width="29px" alt="Wave GIF"> **Hello world!** &nbsp;<img src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/Earth.gif" width="24px" alt="Earth GIF">
+# Cristian Paolini&nbsp;
 
 <p>
   <em>
     I am a <b>Software Developer</b> who tries to <b>improve</b> on a daily basis. 
     That is why I always try to learn, apply the <b>best practices</b> and write code as <b>clean</b> as possible. 
-    I'm certain that this mindset helps me <b>grow</b> as a professional. <img src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/Medal.gif" width="20px" alt="Medal GIF">
+    I'm certain that this mindset helps me <b>grow</b> as a professional.
   </em>  
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 - I’m usually *coding* on my laptop 👨‍💻
-- <img alt="GIF" src="https://github.com/CristianPaolini/CristianPaolini/blob/main/Assets/gandalf_parrot.gif" width="20vw" alt="Gandalf GIF" /> I’m *looking forward to collaborate* on **open source projects**.
+- I’m *looking forward to collaborate* on **open source projects**.
 - **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 
 ### 🛠 &nbsp;Tech Stack
