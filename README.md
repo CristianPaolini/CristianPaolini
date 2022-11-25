@@ -38,7 +38,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center"><a href="https://github.com/CristianPaolini">
-<a href="https://github.com/CristianPaolini"><img alt="Cristian Paolini's's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=CristianPaolini&bg_color=1F222E&color=F8D866&line=13f6e9&point=FFFFFF&hide_border=false" /></a>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianpaolini&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Cristian Paolini's GitHub stats" />
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpaolini&hide=asp.net&langs_count=8&layout=compact&theme=dark" alt="Cristian Paolini's most used languages" /></a>
 <p>
