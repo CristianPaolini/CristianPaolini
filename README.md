@@ -11,6 +11,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - I’m usually *coding* on my laptop 👨‍💻
+- Currently learning: .NET Core MVC, React and Next.js
 - I’m *looking forward to collaborate* on **open source projects**.
 - **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 
